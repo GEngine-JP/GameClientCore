@@ -1,0 +1,2 @@
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeFile="LogoffUC.ascx.cs" Inherits="Login_LogoffUC" %>
+欢迎您：<asp:Label ID="lbUsername" runat="server"></asp:Label><asp:Button ID="btnLogoff" runat="server" Text="退出" OnClick="btnLogoff_Click" SkinID="btnSkin" Height="26px" />
