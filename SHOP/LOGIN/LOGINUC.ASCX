@@ -1,2 +1,0 @@
-﻿<%@ Control Language="C#" AutoEventWireup="true" CodeFile="LoginUC.ascx.cs" Inherits="Login_LoginUC" %>
-名称：<asp:TextBox ID="tbUsername" SkinID="tbSkin" Width="80" runat="server"></asp:TextBox>密码：<asp:TextBox ID="tbPassword" SkinID="tbSkin" Width="80" runat="server"></asp:TextBox><asp:Button ID="btnLogin" runat="server" Text="登录" SkinID="btnSkin" OnClick="btnLogin_Click" Height="26px" />
